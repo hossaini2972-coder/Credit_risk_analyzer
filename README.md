@@ -26,7 +26,7 @@ This project predicts whether a customer is likely to default on a loan based on
 - Random Forest Classifier
 
 ## Live Demo
-[Paste your Streamlit link here]
+https://creditriskanalyzer-rbph57he326lappqrp6fenn.streamlit.app/
 
 ## How to Run
 ```bash
